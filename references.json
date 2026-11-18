@@ -1,0 +1,68 @@
+[
+  {
+    "#": "1",
+    "Citation": "Singer P, et al. ESPEN ICU guideline. Clin Nutr 2019;38(1):48–79.",
+    "Key Finding (relevance to claim)": "Continuous EN preferred over bolus in ICU.",
+    "DOI / Source": "https://doi.org/10.1016/j.clnu.2018.08.037"
+  },
+  {
+    "#": "2",
+    "Citation": "McClave SA, et al. SCCM/ASPEN ICU guidelines. JPEN 2016;40(2):159–211.",
+    "Key Finding (relevance to claim)": "High aspiration risk: continuous pump infusion.",
+    "DOI / Source": "https://doi.org/10.1177/0148607115621863"
+  },
+  {
+    "#": "3",
+    "Citation": "Boullata JI, et al. ASPEN Safe Practices for EN. JPEN 2017;41(1):15–103.",
+    "Key Finding (relevance to claim)": "Pump-controlled = standard safe practice.",
+    "DOI / Source": "https://doi.org/10.1177/0148607116673053"
+  },
+  {
+    "#": "4",
+    "Citation": "NICE CG32: Nutrition support for adults. 2006 (rev. 2017).",
+    "Key Finding (relevance to claim)": "Pump feeding for jejunal & accurate volume control.",
+    "DOI / Source": "https://www.nice.org.uk/guidance/cg32"
+  },
+  {
+    "#": "5",
+    "Citation": "Bischoff SC, et al. ESPEN home EN guideline. Clin Nutr 2020;39(1):5–22.",
+    "Key Finding (relevance to claim)": "Pump for HEN, jejunal & poor bolus tolerance.",
+    "DOI / Source": "https://doi.org/10.1016/j.clnu.2019.04.022"
+  },
+  {
+    "#": "6",
+    "Citation": "Reignier J, et al. NUTRIREA-2. Lancet 2018;391:133–143.",
+    "Key Finding (relevance to claim)": "RCT (n=2410): unstable patients need controlled EN.",
+    "DOI / Source": "https://doi.org/10.1016/S0140-6736(17)32146-3"
+  },
+  {
+    "#": "7",
+    "Citation": "Heyland DK, et al. PEP uP protocol. Crit Care 2010;14(2):R78.",
+    "Key Finding (relevance to claim)": "Volume-based pump feeding ↑ delivered nutrition.",
+    "DOI / Source": "https://doi.org/10.1186/cc8991"
+  },
+  {
+    "#": "8",
+    "Citation": "IEC 60601-2-24:2012 — Infusion pump requirements.",
+    "Key Finding (relevance to claim)": "Pump accuracy standard (±5–10%).",
+    "DOI / Source": "https://webstore.iec.ch/publication/2649"
+  },
+  {
+    "#": "9",
+    "Citation": "Stroud M, et al. BSG enteral feeding guidelines. Gut 2003;52(s7):vii1–vii12.",
+    "Key Finding (relevance to claim)": "Gravity flow is operator-dependent & unreliable.",
+    "DOI / Source": "https://doi.org/10.1136/gut.52.suppl_7.vii1"
+  },
+  {
+    "#": "10",
+    "Citation": "Weimann A, et al. ESPEN surgery guideline. Clin Nutr 2021;40(7):4745–4761.",
+    "Key Finding (relevance to claim)": "Pump delivery for post-op jejunal access.",
+    "DOI / Source": "https://doi.org/10.1016/j.clnu.2021.03.031"
+  },
+  {
+    "#": "Illustrative use only. Review with a qualified healthcare professional; local practice & product labelling take precedence.",
+    "Citation": null,
+    "Key Finding (relevance to claim)": null,
+    "DOI / Source": null
+  }
+]

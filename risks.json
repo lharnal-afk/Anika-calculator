@@ -1,0 +1,26 @@
+[
+  {
+    "#": "1",
+    "Risk": "Aspiration risk",
+    "Clinical Evidence": "In ICU & high-risk patients, continuous pump feeding preferred over bolus to reduce aspiration & GI intolerance.",
+    "Refs": "1, 2"
+  },
+  {
+    "#": "2",
+    "Risk": "Uncontrolled flow",
+    "Clinical Evidence": "Pump delivery improves prescribed-volume delivery and reduces diarrhea & distension.",
+    "Refs": "3, 7"
+  },
+  {
+    "#": "3",
+    "Risk": "Feed accuracy",
+    "Clinical Evidence": "Pumps: ±5–10% (IEC 60601-2-24). Gravity drip: highly variable.",
+    "Refs": "8, 9"
+  },
+  {
+    "#": "4",
+    "Risk": "Society guidance",
+    "Clinical Evidence": "ESPEN, ASPEN & NICE recommend pump feeding for jejunal, ICU & home enteral nutrition.",
+    "Refs": "1, 3, 4, 5"
+  }
+]
